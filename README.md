@@ -17,10 +17,10 @@
 ### 🌐 **Connect with Me**
 <p align="left">
   <a href="https://linkedin.com/in/eladreuveny" target="_blank" title="LinkedIn">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
   <a href="https://www.leetcode.com/eladre44" target="_blank" title="LeetCode">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="35" />
   </a>
 </p>
 
@@ -50,6 +50,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   </a>
+  
   <!-- Frameworks -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
@@ -60,6 +61,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50" />
   </a>
+  
   <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
@@ -67,9 +69,13 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
   </a>
+  
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
