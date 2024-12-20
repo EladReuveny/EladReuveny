@@ -5,7 +5,7 @@
 
 ### 🔗 **Projects**
 - 👨‍💻 Check out my projects: 
-  <a href="https://peppy-pastelito-d1322b.netlify.app/" target="_blank" title="Portfolio">My Portfolio</a>
+  <a href="https://eladreuveny-portfolio.netlify.app/" target="_blank" title="Portfolio">My Portfolio</a>
 
 ---
 
@@ -17,10 +17,10 @@
 ### 🌐 **Connect with Me**
 <p align="left">
   <a href="https://linkedin.com/in/eladreuveny" target="_blank" title="LinkedIn">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://www.leetcode.com/eladre44" target="_blank" title="LeetCode">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="35" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" />
   </a>
 </p>
 
