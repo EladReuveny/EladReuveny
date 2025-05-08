@@ -80,6 +80,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" />
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50" />
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
   </a>
