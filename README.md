@@ -5,7 +5,7 @@
 
 ### 🔗 **Projects**
 - 👨‍💻 Check out my projects: 
-  <a href="https://eladreuveny-portfolio.netlify.app/" target="_blank" title="Portfolio">My Portfolio</a>
+  <a href="https://eladtechportfolio.netlify.app/" target="_blank" title="Portfolio">My Portfolio</a>
 
 ---
 
