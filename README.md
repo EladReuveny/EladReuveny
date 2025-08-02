@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
   </a>
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="50" height="50" />
   </a>
   <a href="https://isocpp.org" target="_blank" rel="noreferrer" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
