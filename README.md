@@ -65,6 +65,7 @@ I work comfortably across the entire stack - from system design, via database de
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/></a>
+  <a href="https://tanstack.com/query/latest" target="_blank" title="TanStack Query"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/web/public/logos/react-query.svg" width="50" height="50" alt="TanStack Query"/></a>
   <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind"/></a>
   <a href="https://www.w3.org/html/" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/></a>
