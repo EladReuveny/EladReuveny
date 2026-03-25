@@ -64,9 +64,8 @@ I work comfortably across the entire stack - from system design, via database de
 ### ⚛️ Frontend
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/></a>
   <a href="https://tanstack.com/query/latest" target="_blank" title="TanStack Query"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/web/public/logos/react-query.svg" width="50" height="50" alt="TanStack Query"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg" width="50" height="50" alt="Tailwind"/></a>
   <a href="https://www.w3.org/html/" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/></a>
     <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite"/></a>
@@ -84,7 +83,7 @@ I work comfortably across the entire stack - from system design, via database de
 
 ---
 
-### 🗄 Databases & Caching
+### 🗄 Databases
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/></a>
@@ -93,36 +92,34 @@ I work comfortably across the entire stack - from system design, via database de
 
 ---
 
-### ☁ DevOps & Cloud
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" alt="GitHub"/></a>
-  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services (AWS)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/></a>
-  <a href="https://www.netlify.com/" target="_blank" title="Netlify"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/></a>
-  <a href="https://render.com/" target="_blank" title="Render"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" height="40" alt="Render"/></a>
-  <a href="https://neon.tech/" target="_blank" title="Neon Database"><img src="https://neon.tech/favicon.ico" width="50" height="50" alt="Neon"/></a>
-</p>
-
----
-
-### 🔒 API Design & Security
+### 🔒 API & Security
 <p align="left">
   <a href="https://swagger.io" target="_blank" title="Swagger / OpenAPI"><img src="https://svgstack.com/media/img/swagger-logo-xTUe014050.webp" width="50" height="50" alt="Swagger"/></a>
   <a href="https://postman.com" target="_blank" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/></a>
   <a href="https://jwt.io/" target="_blank" title="JSON Web Token (JWT)"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" alt="JWT"/></a>
+  <a href="https://socket.io/" target="_blank" title="Socket.IO"><img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="50" height="50" alt="Socket.IO"/></a>
 </p>
 
 ---
 
-### 🧰 Tools & Environment
+### ☁ DevOps & Cloud
 <p align="left">
-  <a href="https://www.npmjs.com/" target="_blank" title="npm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="npm"/></a>
-  <a href="https://maven.apache.org/" target="_blank" title="Apache Maven"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="50" height="50" alt="Maven"/></a>
-  <a href="https://www.linux.org/" target="_blank" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/></a>
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"/></a>
+  <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services (AWS)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/></a>
+  <a href="https://www.netlify.com/" target="_blank" title="Netlify"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/></a>
+  <a href="https://render.com/" target="_blank" title="Render"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" height="40" alt="Render"/></a>
+  <a href="https://neon.tech/" target="_blank" title="Neon"><img src="https://neon.com/brand/neon-logomark-dark-color.svg?updated=2026-01-21&dpl=dpl_FCcLm8Lf8CLdXLeDhCFs1uXXgHUJ" width="50" height="50" alt="Neon"/></a>
+</p>
+
+---
+
+### 🧰 Tools & AI
+<p align="left">
+  <a href="https://github.com/features/copilot" target="_blank" title="GitHub Copilot"><img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="50" height="50" alt="GitHub Copilot"/></a>
+  <a href="https://windsurf.ai/" target="_blank" title="Windsurf"><img src="https://windsurf.ai/favicon.ico" width="50" height="50" alt="Windsurf"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" alt="VS Code"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ IDEA"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ"/></a>
-  <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" alt="Figma"/></a>
 </p>
 
 
