@@ -64,8 +64,14 @@ I work comfortably across the entire stack - from system design, via database de
 ### ⚛️ Frontend
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg" width="50" height="50" alt="Tailwind"/></a>
   <a href="https://tanstack.com/query/latest" target="_blank" title="TanStack Query"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/web/public/logos/react-query.svg" width="50" height="50" alt="TanStack Query"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg" width="50" height="50" alt="Tailwind"/></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" title="Zustand">
+    <img src="https://logo.svgcdn.com/devicon/zustand-original.png" width="50" height="50" alt="Zustand"/>
+  </a>
+  <a href="https://jotai.org/" target="_blank" title="Jotai">
+    <img src="https://cdn.candycode.com/jotai/jotai-mascot.png" width="50" height="50" alt="Jotai"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/></a>
     <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite"/></a>
@@ -75,7 +81,9 @@ I work comfortably across the entire stack - from system design, via database de
 
 ### ⚙️ Backend
 <p align="left">
-  <a href="https://nestjs.com/" target="_blank" title="NestJS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="50" height="50" alt="NestJS"/></a>
+  <a href="https://nestjs.com/" target="_blank" title="NestJS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="50" height="50" alt="NestJS" />
+  </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot"><img src="https://spring.io/img/projects/spring-boot.svg" width="50" height="50" alt="Spring Boot"/></a>
   <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50" alt="Express"/></a>
   <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/></a>
@@ -104,8 +112,6 @@ I work comfortably across the entire stack - from system design, via database de
 
 ### ☁ DevOps & Cloud
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"/></a>
   <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker"/></a>
   <a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services (AWS)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/></a>
   <a href="https://www.netlify.com/" target="_blank" title="Netlify"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify"/></a>
@@ -115,8 +121,10 @@ I work comfortably across the entire stack - from system design, via database de
 
 ---
 
-### 🧰 Tools & AI
+### 🧰 Tools
 <p align="left">
+  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub"/></a>
   <a href="https://github.com/features/copilot" target="_blank" title="GitHub Copilot"><img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="50" height="50" alt="GitHub Copilot"/></a>
   <a href="https://windsurf.ai/" target="_blank" title="Windsurf"><img src="https://windsurf.ai/favicon.ico" width="50" height="50" alt="Windsurf"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="50" height="50" alt="VS Code"/></a>
